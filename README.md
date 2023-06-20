@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Python and Java focusing on backend technologies.
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=brunofelipebf&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brunofelipebf&langs_count=5&theme=tokyonight)]()
